@@ -58,6 +58,6 @@ on your explicit request).
 ## Links
 
 - Website: https://pasportoo.com/
-- Support: https://pasportoo.com/support?lang=en
-- Privacy policy: https://pasportoo.com/privacy?lang=en
-- Terms of service: https://pasportoo.com/terms?lang=en
+- Support: support@pasportoo.com (plans and contact: https://mcp.pasportoo.com/plans)
+- Privacy policy: https://mcp.pasportoo.com/privacy
+- Terms of service: https://mcp.pasportoo.com/terms
