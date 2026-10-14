@@ -1,0 +1,16 @@
+{
+  "name": "pasportoo",
+  "description": "Pasportoo plugins for Claude Code: a deterministic Agent exam and Agent Passport over the Pasportoo MCP server.",
+  "owner": {
+    "name": "Pasportoo",
+    "url": "https://pasportoo.com/"
+  },
+  "plugins": [
+    {
+      "name": "pasportoo",
+      "source": "./plugins/claude-code/pasportoo",
+      "description": "Deterministic Agent exam (Coding, Debugging, Writing Tests) and an Agent Passport issued only after you confirm the result.",
+      "category": "productivity"
+    }
+  ]
+}
