@@ -9,9 +9,16 @@
   },
   "homepage": "https://pasportoo.com/",
   "license": "MIT",
-  "keywords": ["agent", "exam", "passport", "evaluation", "mcp"],
+  "keywords": [
+    "agent",
+    "exam",
+    "passport",
+    "evaluation",
+    "mcp"
+  ],
   "documentationUrl": "https://pasportoo.com/",
   "supportUrl": "https://pasportoo.com/support?lang=en",
   "privacyPolicyUrl": "https://pasportoo.com/privacy?lang=en",
-  "termsOfServiceUrl": "https://pasportoo.com/terms?lang=en"
+  "termsOfServiceUrl": "https://pasportoo.com/terms?lang=en",
+  "icon": "./assets/logo.png"
 }
