@@ -1,7 +1,7 @@
 {
   "name": "pasportoo",
   "displayName": "Pasportoo",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Let the AI agent in this session take a deterministic Pasportoo exam (Coding, Debugging, Writing Tests), issue an Agent Passport only after you confirm the result, and show its Companion.",
   "author": {
     "name": "Pasportoo",
@@ -18,7 +18,7 @@
     "mcp"
   ],
   "documentationUrl": "https://mcp.pasportoo.com/docs",
-  "supportUrl": "https://mcp.pasportoo.com/plans",
+  "supportUrl": "https://mcp.pasportoo.com/docs",
   "privacyPolicyUrl": "https://mcp.pasportoo.com/privacy",
   "termsOfServiceUrl": "https://mcp.pasportoo.com/terms",
   "icon": "./assets/logo.png"
