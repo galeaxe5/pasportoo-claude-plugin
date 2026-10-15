@@ -9,6 +9,7 @@
     "url": "https://pasportoo.com/"
   },
   "homepage": "https://pasportoo.com/",
+  "repository": "https://github.com/galeaxe5/pasportoo-claude-plugin",
   "license": "MIT",
   "keywords": [
     "agent",
